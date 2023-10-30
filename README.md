@@ -23,7 +23,7 @@ Pour travailler sur une base de données, il va falloir installer un environneme
 * Pour Windows → installation de **laragon** puis de **phpmyadmin**
 
 
-* Pour linux → installation de **docker **puis de **devilbox**. 
+* Pour linux → installation de **docker** puis de **devilbox**. 
 
 L'objectif est de réussir à ouvrir cette page : https://www.cloudways.com/blog/wp-content/uploads/phpMyAdmin-dashboard-1024x524.png  
 
