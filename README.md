@@ -8,7 +8,7 @@
 
 ## 📽️ Présentation :
 
-Présentation[ Les bases de donnée](https://docs.google.com/presentation/d/1PJjghVAjdIgHL4rzNCNJpWE9oTDSM2Kdby6Mvc8JsJI/edit#slide=id.g3d514b032d_0_5)<span style="text-decoration:underline;">s</span>
+Présentation [Les bases de données](https://docs.google.com/presentation/d/1PJjghVAjdIgHL4rzNCNJpWE9oTDSM2Kdby6Mvc8JsJI/edit#slide=id.g3d514b032d_0_5)
 
 Présentation [Docker et Devilbox](https://docs.google.com/presentation/d/1plRYFnmrsp0QNPWqatKqsWDoC3zZIjgDr0JgXN4oGNc/edit?usp=sharing)
 
