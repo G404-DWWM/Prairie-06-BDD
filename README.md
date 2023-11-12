@@ -79,7 +79,7 @@ Vous allez commencer par parcourir ce cours en ligne :[ Introduction au langage 
 
 Pour comprendre SQL vous allez imaginer la BDD du centre de formation.
 
-Ensuite avec les connaissances acquises, vous allez imaginer le **schéma **de cette BDD :
+Ensuite avec les connaissances acquises, vous allez imaginer le **schéma** de cette BDD :
 
 
 
