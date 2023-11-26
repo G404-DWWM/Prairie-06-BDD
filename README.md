@@ -3,16 +3,11 @@
 ## Les Bases De Données
 
 
-
-
-
 ## 📽️ Présentation :
 
 Présentation [Les bases de données](https://docs.google.com/presentation/d/1PJjghVAjdIgHL4rzNCNJpWE9oTDSM2Kdby6Mvc8JsJI/edit#slide=id.g3d514b032d_0_5)
 
 Présentation [Docker et Devilbox](https://docs.google.com/presentation/d/1plRYFnmrsp0QNPWqatKqsWDoC3zZIjgDr0JgXN4oGNc/edit?usp=sharing)
-
-
 
 
 # 👨‍💻 Installer un environnement de développement
@@ -26,39 +21,30 @@ Pour travailler sur une base de données, il va falloir installer un environneme
 * Pour linux → installation de **docker** puis de **devilbox**. 
 
 L'objectif est de réussir à ouvrir cette page : https://www.cloudways.com/blog/wp-content/uploads/phpMyAdmin-dashboard-1024x524.png  
-
-
-
-
     
-Pour y arriver il vous faudra faire des recherches en anglais et vous entraider pour la compréhension des astuces trouvées.  
+**Pour y arriver il vous faudra faire des recherches en anglais et vous entraider pour la compréhension des astuces trouvées.**
  
-[Documentation Installation Docker](https://docs.docker.com/engine/install/ubuntu/) 
+
+Installez **Docker Engine**
+ - [Documentation Installation Docker](https://docs.docker.com/engine/install/ubuntu/) 
+
+Installez **Docker Compose**
+ - [Documentation Installation Docker compose](https://docs.docker.com/compose/install/linux/)
+
+Pour vérifier que Docker est bien installé, vous devriez avoir accès aux 2 commandes suivantes : 
+`docker`
+`docker compose`
+
+Si les 2 commandes fonctionne passons à l'installation de dévilbox en suivant la documentation :
+ - [Documentation Installation Devilbox](https://devilbox.readthedocs.io/en/latest/getting-started/install-the-devilbox.html#download-the-devilbox)
+ - *2 commandes principales à effectuer : git clone le repo devilbox, se placer dans le dossier et créer le .env*
 
 
-Install Docker Engine : 3 commandes principales à effectuer
+<ins>Puis lancer l’environnement local avec la commande :</ins> `sudo docker compose up`
 
+### Si tout à bien fonctionné vous devriez avoir accès à l'url : [http://localhost](http://localhost)
 
-[Documentation Installation Docker compose](https://docs.docker.com/compose/install/linux/)
-
-
-Install the Compose plugin : 3 commandes principales à effectuer
-
-
-    
-[Documentation Installation Devilbox](https://devilbox.readthedocs.io/en/latest/getting-started/install-the-devilbox.html#download-the-devilbox)
-
-
-En suivant la documentation : 2 commandes principales à effectuer : git clone le repo devilbox, se placer dans le dossier et créer le .env
-
-
-<ins>Puis lancer l’environnement local avec la commande :</ins> sudo docker compose up 
-
-
-**⚠️	 Tout le monde doit avoir réussi cette étape avant de passer à la suite.**
-
-
-    
+**⚠️ Tout le monde doit avoir réussi cette étape avant de passer à la suite.**
 
 
 # 📃Ressources & Documentation :
