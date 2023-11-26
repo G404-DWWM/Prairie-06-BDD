@@ -61,18 +61,21 @@ En suivant la documentation : 2 commandes principales à effectuer : git clone l
     
 
 
-# 💾S’entraîner avec SQL
+# 📃Ressources & Documentation :
 
-Vous allez commencer par parcourir ce cours en ligne :[ Introduction au langage SQL | Développement Informatique](https://developpement-informatique.com/article/278/introduction-au-langage-sql) 
+Avant de commencer les exercices, voici quelques petits cours et tutoriels pour approfondir le sujet:  
 
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Exercices Les Bases De Données
+ - [ Introduction au langage SQL | Développement Informatique](https://developpement-informatique.com/article/278/introduction-au-langage-sql) 
+ - [Concevoir une base de données](https://colibri.unistra.fr/fr/course/list/concevoir-une-base-de-donnees)
+ - [Notion de base en SQL cours + exercices](https://colibri.unistra.fr/fr/course/list/concevoir-une-base-de-donnees)
 
 
+ - [Cours et Tutoriels sur le Langage SQL - Documentation officiel](https://sql.sh/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Exercices Les Bases De Données
 
 
 ## 👪️Exercice de groupe
@@ -92,24 +95,15 @@ Ensuite avec les connaissances acquises, vous allez imaginer le **schéma** de c
 Une fois ce schéma réalisé (sur [draw.io](https://app.diagrams.net/) ou [drawSQL](https://drawsql.app) par exemple) vous allez créer cette BDD dans PhpMyAdmin en utilisant uniquement des commandes SQL !  
  
 
-
-
-# 📃Ressources :
-
-[Cours et Tutoriels sur le Langage SQL](https://sql.sh/)
-
-
-
-# 🤷Exercice individuel ou en groupe
+## 🤷Exercice individuel ou en groupe
 
 Un cours sur le langage SQL n’est vraiment utile que si on essaye de le mettre en pratique dans un contexte d’usage réel.
 
-Prérequis
+### Prérequis
 
 Télécharger les bases de données d’exemples, qui seront utilisées au sein des exercices.
 
 Pour cela créez une base de données et ajoutez ces 2 tables :
-
 
 
 * Table “[villes de France](https://sql.sh/ressources/sql-villes-france/villes_france.sql)” (8.4Mo)
